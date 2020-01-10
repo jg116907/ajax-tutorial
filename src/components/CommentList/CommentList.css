@@ -1,0 +1,6 @@
+.CommentList {
+  list-style-type: none; /* bullet point 안보이게 설정 */ 
+  background-color: #F0F0F0;
+  padding: 1rem;
+  border-radius: 5px;
+}
